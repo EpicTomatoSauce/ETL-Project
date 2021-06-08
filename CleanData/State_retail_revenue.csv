@@ -1,4 +1,4 @@
-Date,Turnover NSW,Turnover VIC,Turnover QLD,Turnover SA,Turnover WA,TAS,NT,ACT,Total,Quarter
+Date,Turnover_NSW,Turnover_VIC,Turnover_QLD,Turnover_SA,Turnover_WA,Turnover_TAS,Turnover_NT,Turnover_ACT,Total,Quarter
 1982-04-01,1250.2,916.2,486.3,279.4,298.3,79.9,0.0,57.1,3396.4,1982Q2
 1982-05-01,1300.0,931.2,492.8,288.0,318.5,78.9,0.0,57.3,3497.9,1982Q2
 1982-06-01,1234.2,887.0,494.1,277.2,301.5,77.5,0.0,55.3,3357.8,1982Q2
